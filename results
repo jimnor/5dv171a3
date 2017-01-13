@@ -1,0 +1,268 @@
+Running dealine
+
+******************************************************************
+Test will run with 10 threads during 30 seconds
+Initiating test... wait a bit
+Making threads
+running test...
+Test complete, displaying result
+
+Average task laps completion for light task is: 82811
+Lowest amount of completed laps for light task: 82401
+Highest amount of completed laps for light task: 83149
+Gap between highest and lowest completions for light task: 748
+
+Average task laps completion for heavy task is: 535078
+Lowest amount of completed laps for heavy task: 530132
+Highest amount of completed laps for heavy task: 538439
+Gap between highest and lowest completions for heavy task: 8307
+
+******************************************************************
+Test will run with 10 threads during 30 seconds
+Initiating test... wait a bit
+Making threads
+running test...
+Test complete, displaying result
+
+Average task laps completion for light task is: 86925
+Lowest amount of completed laps for light task: 85950
+Highest amount of completed laps for light task: 87722
+Gap between highest and lowest completions for light task: 1772
+
+Average task laps completion for heavy task is: 602383
+Lowest amount of completed laps for heavy task: 599318
+Highest amount of completed laps for heavy task: 606248
+Gap between highest and lowest completions for heavy task: 6930
+
+******************************************************************
+Test will run with 10 threads during 30 seconds
+Initiating test... wait a bit
+Making threads
+running test...
+Test complete, displaying result
+
+Average task laps completion for light task is: 83780
+Lowest amount of completed laps for light task: 83032
+Highest amount of completed laps for light task: 84198
+Gap between highest and lowest completions for light task: 1166
+
+Average task laps completion for heavy task is: 579493
+Lowest amount of completed laps for heavy task: 576060
+Highest amount of completed laps for heavy task: 581057
+Gap between highest and lowest completions for heavy task: 4997
+
+******************************************************************
+Test will run with 10 threads during 30 seconds
+Initiating test... wait a bit
+Making threads
+running test...
+Test complete, displaying result
+
+Average task laps completion for light task is: 87070
+Lowest amount of completed laps for light task: 86617
+Highest amount of completed laps for light task: 87349
+Gap between highest and lowest completions for light task: 732
+
+Average task laps completion for heavy task is: 597129
+Lowest amount of completed laps for heavy task: 591496
+Highest amount of completed laps for heavy task: 601425
+Gap between highest and lowest completions for heavy task: 9929
+
+******************************************************************
+Test will run with 10 threads during 120 seconds
+Initiating test... wait a bit
+Making threads
+running test...
+Test complete, displaying result
+
+Average task laps completion for light task is: 299885
+Lowest amount of completed laps for light task: 298370
+Highest amount of completed laps for light task: 301444
+Gap between highest and lowest completions for light task: 3074
+
+Average task laps completion for heavy task is: 2037860
+Lowest amount of completed laps for heavy task: 2024394
+Highest amount of completed laps for heavy task: 2054845
+Gap between highest and lowest completions for heavy task: 30451
+
+******************************************************************
+
+
+
+Running noop
+******************************************************************
+Test will run with 10 threads during 30 seconds
+Initiating test... wait a bit
+Making threads
+running test...
+Test complete, displaying result
+
+Average task laps completion for light task is: 85966
+Lowest amount of completed laps for light task: 85525
+Highest amount of completed laps for light task: 86555
+Gap between highest and lowest completions for light task: 1030
+
+Average task laps completion for heavy task is: 369238
+Lowest amount of completed laps for heavy task: 364661
+Highest amount of completed laps for heavy task: 374006
+Gap between highest and lowest completions for heavy task: 9345
+
+******************************************************************
+Test will run with 10 threads during 30 seconds
+Initiating test... wait a bit
+Making threads
+running test...
+Test complete, displaying result
+
+Average task laps completion for light task is: 85248
+Lowest amount of completed laps for light task: 84677
+Highest amount of completed laps for light task: 85788
+Gap between highest and lowest completions for light task: 1111
+
+Average task laps completion for heavy task is: 586207
+Lowest amount of completed laps for heavy task: 581531
+Highest amount of completed laps for heavy task: 591482
+Gap between highest and lowest completions for heavy task: 9951
+
+******************************************************************
+Test will run with 10 threads during 30 seconds
+Initiating test... wait a bit
+Making threads
+running test...
+Test complete, displaying result
+
+Average task laps completion for light task is: 81515
+Lowest amount of completed laps for light task: 79891
+Highest amount of completed laps for light task: 83143
+Gap between highest and lowest completions for light task: 3252
+
+Average task laps completion for heavy task is: 492688
+Lowest amount of completed laps for heavy task: 488128
+Highest amount of completed laps for heavy task: 495993
+Gap between highest and lowest completions for heavy task: 7865
+
+******************************************************************
+Test will run with 10 threads during 30 seconds
+Initiating test... wait a bit
+Making threads
+running test...
+Test complete, displaying result
+
+Average task laps completion for light task is: 80098
+Lowest amount of completed laps for light task: 79374
+Highest amount of completed laps for light task: 80637
+Gap between highest and lowest completions for light task: 1263
+
+Average task laps completion for heavy task is: 550753
+Lowest amount of completed laps for heavy task: 548698
+Highest amount of completed laps for heavy task: 552338
+Gap between highest and lowest completions for heavy task: 3640
+******************************************************************
+Test will run with 10 threads during 120 seconds
+Initiating test... wait a bit
+Making threads
+running test...
+Test complete, displaying result
+
+Average task laps completion for light task is: 331405
+Lowest amount of completed laps for light task: 329168
+Highest amount of completed laps for light task: 332927
+Gap between highest and lowest completions for light task: 3759
+
+Average task laps completion for heavy task is: 2260391
+Lowest amount of completed laps for heavy task: 2250894
+Highest amount of completed laps for heavy task: 2274875
+Gap between highest and lowest completions for heavy task: 23981
+
+******************************************************************
+
+
+
+
+running cfq
+******************************************************************
+Test will run with 10 threads during 30 seconds
+Initiating test... wait a bit
+Making threads
+running test...
+Test complete, displaying result
+
+Average task laps completion for light task is: 85227
+Lowest amount of completed laps for light task: 84539
+Highest amount of completed laps for light task: 85970
+Gap between highest and lowest completions for light task: 1431
+
+Average task laps completion for heavy task is: 590813
+Lowest amount of completed laps for heavy task: 579126
+Highest amount of completed laps for heavy task: 595387
+Gap between highest and lowest completions for heavy task: 16261
+
+******************************************************************
+Test will run with 10 threads during 30 seconds
+Initiating test... wait a bit
+Making threads
+running test...
+Test complete, displaying result
+
+Average task laps completion for light task is: 77382
+Lowest amount of completed laps for light task: 77202
+Highest amount of completed laps for light task: 77639
+Gap between highest and lowest completions for light task: 437
+
+Average task laps completion for heavy task is: 530308
+Lowest amount of completed laps for heavy task: 526154
+Highest amount of completed laps for heavy task: 534168
+Gap between highest and lowest completions for heavy task: 8014
+
+******************************************************************
+Test will run with 10 threads during 30 seconds
+Initiating test... wait a bit
+Making threads
+running test...
+Test complete, displaying result
+
+Average task laps completion for light task is: 84364
+Lowest amount of completed laps for light task: 83730
+Highest amount of completed laps for light task: 85488
+Gap between highest and lowest completions for light task: 1758
+
+Average task laps completion for heavy task is: 579629
+Lowest amount of completed laps for heavy task: 575118
+Highest amount of completed laps for heavy task: 584030
+Gap between highest and lowest completions for heavy task: 8912
+
+******************************************************************
+Test will run with 10 threads during 30 seconds
+Initiating test... wait a bit
+Making threads
+running test...
+Test complete, displaying result
+
+Average task laps completion for light task is: 84816
+Lowest amount of completed laps for light task: 84234
+Highest amount of completed laps for light task: 85752
+Gap between highest and lowest completions for light task: 1518
+
+Average task laps completion for heavy task is: 580277
+Lowest amount of completed laps for heavy task: 570666
+Highest amount of completed laps for heavy task: 586064
+Gap between highest and lowest completions for heavy task: 15398
+
+********************************************************************
+Test will run with 10 threads during 120 seconds
+Initiating test... wait a bit
+Making threads
+running test...
+Test complete, displaying result
+
+Average task laps completion for light task is: 310149
+Lowest amount of completed laps for light task: 308752
+Highest amount of completed laps for light task: 311152
+Gap between highest and lowest completions for light task: 2400
+
+Average task laps completion for heavy task is: 1842849
+Lowest amount of completed laps for heavy task: 1826936
+Highest amount of completed laps for heavy task: 1856024
+Gap between highest and lowest completions for heavy task: 29088
+
+
